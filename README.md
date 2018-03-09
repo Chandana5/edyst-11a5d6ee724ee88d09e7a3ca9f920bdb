@@ -1,1 +1,2 @@
-# edyst-11a5d6ee724ee88d09e7a3ca9f920bdb
+# Placement Bootcamp 2017
+Repository Maintainer: chandana.nalla97@gmail.com
